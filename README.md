@@ -13,15 +13,20 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-E7352C?style=flat&logo=espressif&logoColor=white)
+![Circuit Design](https://img.shields.io/badge/Circuit%20Design-FF6B6B?style=flat&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-4CAF50?style=flat&logoColor=white)
 
 ---
 
 ### 🎓 Education
 
+**Diploma in Electrical & Electronics Engineering**
+2021 – 2024
 
-Diploma in Electrical & Electronics Engineering
-
-B.Tech Information Technology**
+**B.Tech Information Technology**
+2nd Year | 2024 – 2028
 
 ---
 
@@ -30,7 +35,6 @@ B.Tech Information Technology**
 - 🐍 Python — getting deeper into it
 - 🤖 AI / ML — 
 - ⚛️ React & Next.js — 
-- German — 
 
 ---
 
