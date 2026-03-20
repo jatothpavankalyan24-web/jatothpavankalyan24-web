@@ -20,6 +20,7 @@
 
 
 Diploma in Electrical & Electronics Engineering
+
 B.Tech Information Technology**
 
 ---
