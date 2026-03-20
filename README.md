@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hey%2C+I'm+Pavan+Kalyan+👋;B.Tech+IT+Student;Web+Dev+%7C+Java+%7C+Python;Still+learning%2C+still+going+🌍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hey%2C+I'm+Pavan+Kalyan+👋)](https://git.io/typing-svg)
 
 2nd year B.Tech IT student, currently into AI/ML, Java,
 
