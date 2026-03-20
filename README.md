@@ -1,16 +1,44 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hey%2C+I'm+Pavan+Kalyan+👋;B.Tech+IT+Student;Web+Dev+%7C+Java+%7C+Python;Still+learning%2C+still+going+🌍)](https://git.io/typing-svg)
 
-<!--
-**jatothpavankalyan24-web/jatothpavankalyan24-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd year B.Tech IT student, currently into AI/ML, Java,
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tech
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+---
+
+### 🎓 Education
+
+
+Diploma in Electrical & Electronics Engineering
+B.Tech Information Technology**
+
+---
+
+### 🌱 Currently Learning
+
+- 🐍 Python — getting deeper into it
+- 🤖 AI / ML — 
+- ⚛️ React & Next.js — 
+- German — 
+
+---
+
+### 📊 GitHub Stats
+
+![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatothpavankalyan24-web&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatothpavankalyan24-web&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+⚡ *"sparkyyy."*
